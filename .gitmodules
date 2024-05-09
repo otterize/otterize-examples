@@ -1,3 +1,6 @@
 [submodule "istio-authorization-policies"]
 	path = istio-authorization-policies
 	url = https://github.com/vfiftyfive/istio-authorization-policies.git
+[submodule "dadjokes"]
+	path = dadjokes
+	url = https://github.com/vfiftyfive/dadjokes.git
